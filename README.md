@@ -12,7 +12,6 @@ Aqui compartilho minha jornada na programação e também um pouco da minha vida
 - JavaScript  
 - HTML 
 - Linguagens de blocos (Scratch, MakeCode, etc.)
--  
  ## Objetivo  
 - Postar projetos que mostrem meu aprendizado.  
 - Evoluir para projetos cada vez mais profissionais.  
