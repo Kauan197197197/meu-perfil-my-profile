@@ -18,7 +18,7 @@ Aqui compartilho minha jornada na programação e também um pouco da minha vida
 - No futuro, me tornar um desenvolvedor back-end.  
 
 ## Projetos  
-- Em breve vou postar projetos feitos em blocos (Scratch e MakeCode).  
+- Em breve vou postar projetos feitos em linguagem de blocos (Scratch e MakeCode).  
 - Também compartilho códigos em Python, JavaScript e HTML.  
 
 # Hello, I am Kauan  
@@ -42,5 +42,5 @@ Here I share my journey in programming and also a little about my life.
 - In the future, become a back-end developer.  
 
 ## Projects  
-- Soon I will post projects made with block-based programming (Scratch and MakeCode).  
+- Soon I will post projects made in block language (Scratch and MakeCode).
 - I also share code in Python, JavaScript, and HTML.
